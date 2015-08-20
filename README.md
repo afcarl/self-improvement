@@ -28,6 +28,7 @@ A list of non-bullshit links and books that you can use to improve yourself.
 * [Anki](http://ankisrs.net/): A [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) flashcard system.
 * [How to Solve It](http://www.amazon.com/How-Solve-It-Mathematical-Princeton/dp/069111966X)
 * [How to Prove It](http://www.amazon.com/How-Prove-It-Structured-Approach/dp/0521675995)
+* [Make It Stick: The Science of Successful Learning](http://www.amazon.com/Make-It-Stick-Successful-Learning/dp/0674729013)
 
 # Rationality
 * [Thinking Fast And Slow](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
